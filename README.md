@@ -200,14 +200,6 @@ Contributions are welcome!
 
 ---
 
-## 🔗 Join the Community  
-
-💬 **Telegram:** [Join our group](https://t.me/prodevopsguy)  
-⭐ **GitHub:** [Follow me](https://github.com/NotHarshhaa)  
-📖 **Blog:** [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-💼 **LinkedIn:** [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
 
 ## ⭐ Show Your Support  
 
