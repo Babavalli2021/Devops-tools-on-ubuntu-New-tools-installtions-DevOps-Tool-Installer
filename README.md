@@ -190,19 +190,7 @@ iwr -useb https://raw.githubusercontent.com/NotHarshhaa/DevOps-Tool-Installer/ma
 
 ---
 
-## 🤝 Contribution  
-
-Contributions are welcome!  
-
-- 🐞 Report bugs by opening issues  
-- ✨ Suggest new tools or features  
-- 🔧 Submit PRs to improve install/uninstall logic  
 
 ---
 
 
-## ⭐ Show Your Support  
-
-If this project saved you time, consider giving it a ⭐ on GitHub!  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
